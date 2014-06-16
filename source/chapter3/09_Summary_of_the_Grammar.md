@@ -1,7 +1,7 @@
 > 翻译：[stanzhai](https://github.com/stanzhai)  
 > 校对：[xielingwang](https://github.com/xielingwang)
 
-# 语法总结
+# 语法小结
 _________________
 
 本页包含内容：
